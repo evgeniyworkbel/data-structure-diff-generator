@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/evgeniyworkbel/data-structure-diff-generator/issues"
   },
-  "homepage": "https://github.com/evgeniyworkbel/data-structure-diff-generator#readme"
+  "homepage": "https://github.com/evgeniyworkbel/data-structure-diff-generator#readme",
+  "dependencies": {
+    "commander": "^11.0.0"
+  }
 }
