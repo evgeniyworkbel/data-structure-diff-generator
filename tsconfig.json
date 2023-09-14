@@ -5,7 +5,8 @@
         "esm": true,
     },
     "compilerOptions": {
-        "module": "ESNext",
+        "module": "nodenext",
+        "moduleResolution": "nodenext",
         "noImplicitAny": true,
         "strictNullChecks": true,
         "removeComments": true,
