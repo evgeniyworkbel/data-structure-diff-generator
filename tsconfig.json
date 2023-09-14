@@ -1,0 +1,13 @@
+{
+    "extends": "@tsconfig/node18/tsconfig.json",
+    "ts-node": {
+        // Tell ts-node CLI to install the --loader automatically
+        "esm": true,
+    },
+    "compilerOptions": {
+        "module": "ESNext",
+        "noImplicitAny": true,
+        "strictNullChecks": true,
+        "removeComments": true,
+    },
+}
